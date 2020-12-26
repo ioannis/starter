@@ -24,3 +24,4 @@ storage connections, but other changes may be necessary.
     brew install unixodbc
     ```
 - Check [here](https://docs.microsoft.com/en-us/sql/connect/odbc/linux-mac/install-microsoft-odbc-driver-sql-server-macos?view=sql-server-ver15) to add SQL Server drivers for Mac. [This StackOverflow post](https://stackoverflow.com/questions/44527452/cant-open-lib-odbc-driver-13-for-sql-server-sym-linking-issue) may also help resolve certain issues.
+"# starter" 
